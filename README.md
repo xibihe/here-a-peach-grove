@@ -4,7 +4,7 @@ A hand-tracked mixed reality experience for Meta Quest 3. Let a butterfly land i
 
 ## Install on Quest 3
 
-1. Download [the v0.12 APK](../../releases/tag/v0.12-quest).
+1. Download [the v0.12 APK](https://github.com/xibihe/here-a-peach-grove/releases/tag/v0.12-quest).
 2. Enable developer mode on your headset. Connect it via USB and allow USB debugging.
 3. Run the following command with Android Platform Tools, then open **此间桃源 Quest** in the headset's app library.
 
